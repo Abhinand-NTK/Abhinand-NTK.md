@@ -1,4 +1,4 @@
-# Abhinand-NTK.md![logo](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
+# Abhinand-NTK.md![logo]([https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg](https://repository-images.githubusercontent.com/289382429/e9c6ec80-8902-11eb-9f55-5de819da8bf5))
 <h1 align="center">Hi 👋, I'm Adish Ct</h1>
 <h3 align="center">A passionate Python Developer from India</h3>
 
