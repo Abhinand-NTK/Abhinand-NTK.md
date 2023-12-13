@@ -1,4 +1,4 @@
-# Abhinand-NTK.md![logo]([https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg](https://repository-images.githubusercontent.com/289382429/e9c6ec80-8902-11eb-9f55-5de819da8bf5))
+# Abhinand-NTK.md![logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.blog%2F2023-08-04-a-checklist-and-guide-to-get-your-repository-collaboration-ready%2F&psig=AOvVaw2jGHkwDWMbVY-j2RbNpJ6Y&ust=1702566949632000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCNDIkaTajIMDFQAAAAAdAAAAABAQ))
 <h1 align="center">Hi 👋, I'm Adish Ct</h1>
 <h3 align="center">A passionate Python Developer from India</h3>
 
