@@ -34,7 +34,7 @@
 
 <p align="right"> 
   
-  ![Adish's Leetcode](https://leetcard.jacoblin.cool/adish_ct?ext=heatmap)
+  ![Adish's Leetcode]([https://leetcard.jacoblin.cool/adish_ct?ext=heatmap](https://leetcode.com/Abhinand_NTK/))
  
 </p>
 
