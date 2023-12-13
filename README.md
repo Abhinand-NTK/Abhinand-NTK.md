@@ -1,4 +1,4 @@
-# Abhinand-NTK.md![logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.blog%2F2023-08-04-a-checklist-and-guide-to-get-your-repository-collaboration-ready%2F&psig=AOvVaw2jGHkwDWMbVY-j2RbNpJ6Y&ust=1702566949632000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCNDIkaTajIMDFQAAAAAdAAAAABAQ))
+![logo](https://www.bleepstatic.com/content/hl-images/2022/04/08/GitHub___headpic.jpg)
 <h1 align="center">Hi 👋, I'm Adish Ct</h1>
 <h3 align="center">A passionate Python Developer from India</h3>
 
