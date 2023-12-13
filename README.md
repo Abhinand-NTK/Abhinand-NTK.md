@@ -1,5 +1,5 @@
 ![logo](https://www.bleepstatic.com/content/hl-images/2022/04/08/GitHub___headpic.jpg)
-<h1 align="center">Hi 👋, I'm Adish Ct</h1>
+<h1 align="center">Hi 👋, I'm Abhinand Ntk</h1>
 <h3 align="center">A passionate Python Developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
@@ -11,8 +11,8 @@
 🌱 I’m currently learning **React** <br><br>
 💬 Ask me about **Django, Python, Html, React, SQL** <br><br>
 ⚡ Fun fact  I thrive on multitasking!<br><br>
-📫 How to reach me **adishct.dev@gmail.com** <br><br>
-📫 How to reach me **adishct@outlook.com** <br><br>
+📫 How to reach me **abhinandntkm@gmail.com** <br><br>
+📫 How to reach me **abhinandntkm@outlook.com** <br><br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
